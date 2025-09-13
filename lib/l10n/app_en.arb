@@ -1,0 +1,16 @@
+{
+"analytics" : "Analytics",
+"temperature" : "Temperature",
+"humidity" : "Humidity",
+"moisture" : "Moisture",
+"raindrop" : "Raindrop",
+"controls" : "Controls",
+"settings" : "Settings",
+"language" : "Language",
+"english" : "English",
+"arabic" : "العربية",
+"switchdis" : "Switch to Disease Detection",
+"switchnav" : "Switch to Agro-Bot Navigation",
+"movement" : "Movement",
+"disease" : "Disease Camera Movement"
+}

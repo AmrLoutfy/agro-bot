@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361081890668",
+    "project_id": "agrobot-73a58",
+    "storage_bucket": "agrobot-73a58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361081890668:android:f695b2d9ae3881f92db549",
+        "android_client_info": {
+          "package_name": "com.example.leaf_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIKXymnnSz6TNNW2FkKxTyCILNvswKK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
